@@ -1,1 +1,1 @@
-# PizzaBot-azure-master
+# PizzaBot
