@@ -1,4 +1,5 @@
 # Microsoft Azure Pizza Chatbot
+##Chapter-I
 ## Objective
 Objective
 In this project, I would be using QnA Maker Service to make a Chatbot that orders your favourite food like Pizzas, Cakes, Ice Creams and Garlic Bread. It provides rating facility through the given form.
@@ -51,4 +52,10 @@ When to use QnA Maker
 •	When you want to filter static information based on meta-information - add metadata tags to provide additional filtering options relevant to your client application's users and the information. Common metadata information includes chit-chat, content type or format, content purpose, and content freshness.
 •	When you want to manage a bot conversation that includes static information - your knowledge base takes a user's conversational text or command and answers it. If the answer is part of a pre-determined conversation flow, represented in your knowledge base with multi-turn context, the bot can easily provide this flow.
 ![Picture1](https://user-images.githubusercontent.com/71881295/160241937-dba0468e-ac3b-4ec4-bed0-6f818bf19eed.png)
-
+After you publish your knowledge base, a client application sends a user's question to your endpoint. Your QnA Maker service processes the question and responds with the best answer.
+## Problem’s Primary Goals
+•	 Setting up a chatbot that can order your requirements (Pizza, Cakes, Ice creams…).
+•  Using a QnA Maker Bot service to build Pizza ordering chatbot. 
+•  Having a real-world chatbot, to which you can chat like you chatting to a real person and ordering Pizza, Cakes…
+## Input
+[Spreadsheet.xlsx](https://github.com/sasidhara-kashyap0903/PizzaBot-azure-master/files/8355579/Spreadsheet.xlsx)
