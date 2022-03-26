@@ -80,8 +80,10 @@ After you publish your knowledge base, a client application sends a user's quest
 ## Microsoft Azure Bot Framework Architecture
 <img width="477" alt="Picture18" src="https://user-images.githubusercontent.com/71881295/160243670-c8026fdc-d60a-426e-92e8-d64178522e22.png">
 ## Microsoft Azure QnA Maker Development Cycle
+
 ![Picture19](https://user-images.githubusercontent.com/71881295/160243758-0622438b-ed0d-4ed0-a9fa-15922a56d8f0.png)
 ## Life Cycle of a Conversational Bot
+
 ![Picture20](https://user-images.githubusercontent.com/71881295/160243891-a71ddc39-a436-444f-9dd1-0fcbed88fc5f.png)
 ### How to build a bot
 Azure Bot Service and the Bot Framework offer an integrated set of tools and services to facilitate the building process. Choose your favorite development environment or command line tools to create your bot. SDKs exist for C#, Java, JavaScript, Typescript, and Python. We provide tools for various stages of bot development to help you design and build bots.
