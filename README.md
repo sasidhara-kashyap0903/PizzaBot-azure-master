@@ -50,5 +50,5 @@ When to use QnA Maker
 •	When you want to provide the same answer to a request, question, or command - when different users submit the same question, the same answer is returned.
 •	When you want to filter static information based on meta-information - add metadata tags to provide additional filtering options relevant to your client application's users and the information. Common metadata information includes chit-chat, content type or format, content purpose, and content freshness.
 •	When you want to manage a bot conversation that includes static information - your knowledge base takes a user's conversational text or command and answers it. If the answer is part of a pre-determined conversation flow, represented in your knowledge base with multi-turn context, the bot can easily provide this flow.
+![Picture1](https://user-images.githubusercontent.com/71881295/160241937-dba0468e-ac3b-4ec4-bed0-6f818bf19eed.png)
 
-    
