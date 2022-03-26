@@ -176,9 +176,13 @@ If you would like to design the application which needs to extract the informati
 By the end of this milestone, you would be having a working chatbot system that orders your favourite food like Pizzas, Cakes, Ice Creams and Garlic Bread to the user along with chatting and provides you rating facility how my service went with you.
 
 ## Technologies / Tools Used
+
 	Microsoft Azure QnA Maker Service
+
 	Git Hub
+
 	Microsoft Office
+
 	Microsoft Visual Studio
 
 
