@@ -168,7 +168,22 @@ If you would like to design the application which needs to extract the informati
 ## Expected Outcome
 By the end of this milestone, you would be having a working chatbot system that orders your favourite food like Pizzas, Cakes, Ice Creams and Garlic Bread to the user along with chatting and provides you rating facility how my service went with you.
 
+## Technologies / Tools Used
+	Microsoft Azure QnA Maker Service
+	Git Hub
+	Microsoft Office
+	Microsoft Visual Studio
+
+
 ## URLs
 GitHub URL: https://github.com/sasidhara-kashyap0903/PizzaBot-azure-master
 
 Demo URL: https://sites.google.com/view/azurepizzaqnabotcom/home?authuser=0
+
+## Account IDs
+Git Hub ID: sasidhara-kashyap0903
+
+Azure Account ID: sasidhara.kashyap@gmail.com
+
+## Acknowledgements
+My sincere thanks, to Microsoft for an impressive QnA Maker service on MS Azure Cloud to make the chatbot development easy. It was a wonderful experience learning this and would like to explore more in next two years of my B.Tech. Sincere appreciation to Team of Future Ready Talent who supported and encouraged us to work on this project. 
