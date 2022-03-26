@@ -177,13 +177,13 @@ By the end of this milestone, you would be having a working chatbot system that 
 
 ## Technologies / Tools Used
 
-	Microsoft Azure QnA Maker Service
+• Microsoft Azure QnA Maker Service
 
-	Git Hub
+• Git Hub
 
-	Microsoft Office
+• Microsoft Office
 
-	Microsoft Visual Studio
+• Microsoft Visual Studio
 
 
 ## URLs
