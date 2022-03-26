@@ -165,82 +165,9 @@ If you would like to design the application which needs to extract the informati
 ![Picture32](https://user-images.githubusercontent.com/71881295/160245119-52e497c6-4b00-4702-8dbd-429c7a560fb0.png)
 ![Picture33](https://user-images.githubusercontent.com/71881295/160245120-d1e5dff3-2b1e-4ba9-9607-939349c54876.png)
 
-## EMBEDDED HTML FILE
+## Expected Outcome
+By the end of this milestone, you would be having a working chatbot system that orders your favourite food like Pizzas, Cakes, Ice Creams and Garlic Bread to the user along with chatting and provides you rating facility how my service went with you.
 
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<title>Azure QnA Chatbot</title>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-* {
-  box-sizing: border-box;
-}
-
-body {
-  font-family: Arial, Helvetica, sans-serif;
-}
-
-/* Style the header */
-header {
-  background-color: #666;
-  padding: 30px;
-  text-align: center;
-  font-size: 35px;
-  color: white;
-}
-
-/* Create two columns/boxes that floats next to each other */
-nav {
-  float: left;
-  width: 30%;
-  height: 300px; /* only for demonstration, should be removed */
-  background: #ccc;
-  padding: 20px;
-}
-
-/* Style the list inside the menu */
-nav ul {
-  list-style-type: none;
-  padding: 0;
-}
-
-article {
-  float: left;
-  padding: 20px;
-  width: 70%;
-  background-color: #f1f1f1;
-  height: 300px; /* only for demonstration, should be removed */
-}
-
-/* Clear floats after the columns */
-section::after {
-  content: "";
-  display: table;
-  clear: both;
-}
-
-/* Style the footer */
-footer {
-  background-color: #777;
-  padding: 10px;
-  text-align: center;
-  color: white;
-}
-
-/* Responsive layout - makes the two columns/boxes stack on top of each other instead of next to each other, on small screens */
-@media (max-width: 600px) {
-  nav, article {
-    width: 100%;
-    height: auto;
-  }
-}
-</style>
-</head>
-<body>
-<iframe src='https://webchat.botframework.com/embed/sasi-bot?s= Dzo1AMv330s.T-iyevx4LeuSjFC7-zhhwS8fBG2PHmdZazY7sdZASUM'  style='min-width: 400px; width: 100%; min-height: 500px;'></iframe>
-</body>
-</html>
-
+## URLs
+GitHub URL: https://github.com/sasidhara-kashyap0903/PizzaBot-azure-master
+Demo URL: https://sites.google.com/view/azurepizzaqnabotcom/home?authuser=0
