@@ -122,19 +122,23 @@ If you would like to design the application which needs to extract the informati
 ## Process
 
 <img width="452" alt="Picture21" src="https://user-images.githubusercontent.com/71881295/160244555-43372a2c-a619-4d7a-9acc-b72bdfbab9f2.png">
+
 ## Task 1
 
 ### Create a Resource Group on Azure
+
 ![Picture22](https://user-images.githubusercontent.com/71881295/160244614-76c8fc94-23b6-46f4-acc2-e4f9b308e0bc.png)
 
 ## Task2
 
 ### Create a QnA Maker Service on Azure
+
 ![Picture23](https://user-images.githubusercontent.com/71881295/160244628-2d105988-b0c8-45d0-b375-f5b0454d1d03.png)
 
 ## Task3
 
 ### Create a Knowledge Base on Azure
+
 ![Picture24](https://user-images.githubusercontent.com/71881295/160244659-2b2ca9c3-339d-4b57-9629-710127a2fe02.png)
 
 
