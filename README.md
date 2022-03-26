@@ -1,4 +1,4 @@
-# **Microsoft Azure Pizza Chatbot**
+# **Pizza Chatbot using Microsoft Azure**
 ## **Chapter-I**
 ## Objective
 Objective
