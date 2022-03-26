@@ -76,3 +76,6 @@ After you publish your knowledge base, a client application sends a user's quest
 ![Picture15](https://user-images.githubusercontent.com/71881295/160243427-00a7ce9d-984d-4c80-aae0-7ffe7be8c682.png)
 ![Picture16](https://user-images.githubusercontent.com/71881295/160243430-d07e2e09-36ea-4ddf-8ba1-e28030cabdc3.png)
 ![Picture17](https://user-images.githubusercontent.com/71881295/160243431-6fa101dd-626e-4dd7-bb49-ca03a874121a.png)
+## Chatpter-II
+## Microsoft Azure Bot Framework Architecture
+<img width="477" alt="Picture18" src="https://user-images.githubusercontent.com/71881295/160243670-c8026fdc-d60a-426e-92e8-d64178522e22.png">
