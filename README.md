@@ -59,3 +59,20 @@ After you publish your knowledge base, a client application sends a user's quest
 •  Having a real-world chatbot, to which you can chat like you chatting to a real person and ordering Pizza, Cakes…
 ## Input
 [Spreadsheet.xlsx](https://github.com/sasidhara-kashyap0903/PizzaBot-azure-master/files/8355579/Spreadsheet.xlsx)
+## Output
+![Picture2](https://user-images.githubusercontent.com/71881295/160243365-5a79dd46-15e2-4473-a12a-858ec57929d1.png)
+![Picture3](https://user-images.githubusercontent.com/71881295/160243432-f03bc77b-c102-499c-a3f5-3964b4c580d7.png)
+![Picture4](https://user-images.githubusercontent.com/71881295/160243436-fdd6f5dd-5bfb-44e3-8f40-cba95d39d03c.png)
+![Picture5](https://user-images.githubusercontent.com/71881295/160243440-558697df-53e7-4ec8-abea-bc840eacb8a1.png)
+![Picture6](https://user-images.githubusercontent.com/71881295/160243444-036c8558-276c-4315-aab7-d38f3adc9c34.png)
+![Picture7](https://user-images.githubusercontent.com/71881295/160243445-f961f9d4-e100-45a4-9134-2040e026edb5.png)
+![Picture8](https://user-images.githubusercontent.com/71881295/160243446-acac3400-42a0-4c69-be81-e5deb98d438e.png)
+![Picture9](https://user-images.githubusercontent.com/71881295/160243448-b53a85bb-7691-4f6b-b9aa-9de6e8983cb5.png)
+![Picture10](https://user-images.githubusercontent.com/71881295/160243450-b2733e05-78f4-4aa4-b644-d67453434de3.png)
+![Picture11](https://user-images.githubusercontent.com/71881295/160243452-4ea2ee56-a57c-4051-a4c1-10aef5cebbc3.png)
+![Picture12](https://user-images.githubusercontent.com/71881295/160243453-d1b88f83-369d-4d70-a830-8e0b0c1d0c5c.png)
+![Picture13](https://user-images.githubusercontent.com/71881295/160243454-86fb2b8a-e507-4b49-906a-30b71640c6b9.png)
+![Picture14](https://user-images.githubusercontent.com/71881295/160243455-3b15a8b3-32fd-49f2-b839-736b012ac792.png)
+![Picture15](https://user-images.githubusercontent.com/71881295/160243427-00a7ce9d-984d-4c80-aae0-7ffe7be8c682.png)
+![Picture16](https://user-images.githubusercontent.com/71881295/160243430-d07e2e09-36ea-4ddf-8ba1-e28030cabdc3.png)
+![Picture17](https://user-images.githubusercontent.com/71881295/160243431-6fa101dd-626e-4dd7-bb49-ca03a874121a.png)
