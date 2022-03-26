@@ -55,7 +55,9 @@ When to use QnA Maker
 After you publish your knowledge base, a client application sends a user's question to your endpoint. Your QnA Maker service processes the question and responds with the best answer.
 ## Problem’s Primary Goals
 •	 Setting up a chatbot that can order your requirements (Pizza, Cakes, Ice creams…).
+
 •  Using a QnA Maker Bot service to build Pizza ordering chatbot. 
+
 •  Having a real-world chatbot, to which you can chat like you chatting to a real person and ordering Pizza, Cakes…
 ## Input
 [Spreadsheet.xlsx](https://github.com/sasidhara-kashyap0903/PizzaBot-azure-master/files/8355579/Spreadsheet.xlsx)
