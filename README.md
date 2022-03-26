@@ -151,6 +151,7 @@ If you would like to design the application which needs to extract the informati
 
 ### Create a Web App Bot on Azure
 
+
 ![Picture26](https://user-images.githubusercontent.com/71881295/160245011-f97dc7be-daa7-42-a807-0409e153e24f.png)
 
 ## Task6
