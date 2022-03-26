@@ -76,7 +76,7 @@ After you publish your knowledge base, a client application sends a user's quest
 ![Picture15](https://user-images.githubusercontent.com/71881295/160243427-00a7ce9d-984d-4c80-aae0-7ffe7be8c682.png)
 ![Picture16](https://user-images.githubusercontent.com/71881295/160243430-d07e2e09-36ea-4ddf-8ba1-e28030cabdc3.png)
 ![Picture17](https://user-images.githubusercontent.com/71881295/160243431-6fa101dd-626e-4dd7-bb49-ca03a874121a.png)
-## Chatpter-II
+## Chapter-II
 ## Microsoft Azure Bot Framework Architecture
 <img width="477" alt="Picture18" src="https://user-images.githubusercontent.com/71881295/160243670-c8026fdc-d60a-426e-92e8-d64178522e22.png">
 
@@ -108,3 +108,13 @@ Connect your bot to channels such as Facebook, Messenger, Kik, Slack, Microsof
 
 ### Evaluate
 Use the data collected in Azure portal to identify opportunities to improve the capabilities and performance of your bot. You can get service-level and instrumentation data like traffic, latency, and integrations. Analytics also provides conversation-level reporting on user, message, and channel data.
+
+## Decision Making Between LUIS and QnA Maker
+
+### When to use the QnA Maker?
+
+If your organization has lots of static questions and answers), take advantage of out of the box features of QnA Maker. Upload your static questions and answers into QnA Maker Portal, and your application can call QnA API to search for questions asked by the user on the front-end application and return the response.
+
+### When to use the LUIS?
+
+If you would like to design the application which needs to extract the information from the user’s questions and further process their intents, then use the LUIS.
