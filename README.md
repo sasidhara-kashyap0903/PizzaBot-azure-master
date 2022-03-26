@@ -79,26 +79,32 @@ After you publish your knowledge base, a client application sends a user's quest
 ## Chatpter-II
 ## Microsoft Azure Bot Framework Architecture
 <img width="477" alt="Picture18" src="https://user-images.githubusercontent.com/71881295/160243670-c8026fdc-d60a-426e-92e8-d64178522e22.png">
+
 ## Microsoft Azure QnA Maker Development Cycle
 
 ![Picture19](https://user-images.githubusercontent.com/71881295/160243758-0622438b-ed0d-4ed0-a9fa-15922a56d8f0.png)
 ## Life Cycle of a Conversational Bot
 
 ![Picture20](https://user-images.githubusercontent.com/71881295/160243891-a71ddc39-a436-444f-9dd1-0fcbed88fc5f.png)
+
 ### How to build a bot
 Azure Bot Service and the Bot Framework offer an integrated set of tools and services to facilitate the building process. Choose your favorite development environment or command line tools to create your bot. SDKs exist for C#, Java, JavaScript, Typescript, and Python. We provide tools for various stages of bot development to help you design and build bots.
 ### Plan
 As with any type of software, having a thorough understanding of the goals, processes and user needs is important to the process of creating a successful bot. Before writing code, review the bot design guidelines for best practices and identify the needs for your bot. You can create a simple bot or include more sophisticated capabilities such as speech, natural language understanding, and question answering.
 ### Build
 Your bot is a web service that implements a conversational interface and communicates with the Bot Framework Service to send and receive messages and events. Bot Framework Service is one of the components of the Azure Bot Service and Bot Framework. You can create bots in any number of environments and languages.
+
 ![Picture34](https://user-images.githubusercontent.com/71881295/160243991-2104e9b0-7dd4-4df7-a65c-7e41ba4913ad.png)
 ### Test
 Bots are complex apps with a lot of various parts working together. Like any other complex app, this can lead to some interesting bugs or cause your bot to behave differently than expected. Before publishing, test your bot. We provide several ways to test bots before they are released for use:
 •	Test your bot locally with the emulator. The Bot Framework Emulator is a stand-alone app that not only provides a chat interface but also debugging and interrogation tools to help understand how and why your bot does what it does. The Emulator can be run locally alongside your in-development bot application.
 •	Test your bot on the web. Once configured through the Azure portal your bot can also be reached through a web chat interface. The web chat interface is a fantastic way to grant access to your bot to testers and other people who do not have direct access to the bot's running code.
+
 ### Publish
 When you are ready for your bot to be available on the web, publish your bot to Azure or to your own web service or data center. Having an address on the public internet is the first step to your bot coming to life on your site, or inside chat channels.
+
 ### Connect
 Connect your bot to channels such as Facebook, Messenger, Kik, Slack, Microsoft Teams, Telegram, text/SMS, and Twilio. Bot Framework does most of the work necessary to send and receive messages from all these different platforms - your bot application receives a unified, normalized stream of messages regardless of the number and type of channels it is connected to. For information on adding channels, see channels topic.
+
 ### Evaluate
 Use the data collected in Azure portal to identify opportunities to improve the capabilities and performance of your bot. You can get service-level and instrumentation data like traffic, latency, and integrations. Analytics also provides conversation-level reporting on user, message, and channel data.
