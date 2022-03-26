@@ -141,4 +141,26 @@ If you would like to design the application which needs to extract the informati
 
 ![Picture24](https://user-images.githubusercontent.com/71881295/160244659-2b2ca9c3-339d-4b57-9629-710127a2fe02.png)
 
+## Task4
 
+### Create an App Service on Azure
+
+![Picture25](https://user-images.githubusercontent.com/71881295/160244956-c5f1a93c-7e2a-41a7-9a54-cc26b4712cc3.png)
+
+## Task5
+
+### Create a Web App Bot on Azure
+
+![Picture26](https://user-images.githubusercontent.com/71881295/160245011-f97dc7be-daa7-42-a807-0409e153e24f.png)
+
+## Task6
+
+### Testing my Bot on Azure
+
+![Picture27](https://user-images.githubusercontent.com/71881295/160245121-8c62b017-0cd0-4f19-a8d4-c06aa0ca7922.png)
+![Picture28](https://user-images.githubusercontent.com/71881295/160245124-497729e6-c649-4f6a-a8d4-069aa1239f14.png)
+![Picture29](https://user-images.githubusercontent.com/71881295/160245125-35d585b0-3301-407d-9cca-9a849fa16561.png)
+![Picture30](https://user-images.githubusercontent.com/71881295/160245126-3753df5e-3ffc-4740-9cc4-9319dea9e6ac.png)
+![Picture31](https://user-images.githubusercontent.com/71881295/160245115-7f6a40d3-920a-4a05-ab14-8673bc7d9e4f.png)
+![Picture32](https://user-images.githubusercontent.com/71881295/160245119-52e497c6-4b00-4702-8dbd-429c7a560fb0.png)
+![Picture33](https://user-images.githubusercontent.com/71881295/160245120-d1e5dff3-2b1e-4ba9-9607-939349c54876.png)
