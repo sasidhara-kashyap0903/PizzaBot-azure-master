@@ -1,7 +1,7 @@
 # **Pizza Chatbot using Microsoft Azure**
 ## **Chapter-I**
 ## Objective
-Objective
+
 In this project, I would be using QnA Maker Service to make a Chatbot that orders your favourite food like Pizzas, Cakes, Ice Creams and Garlic Bread. It provides rating facility through the given form.
 ## Problem Statement
 Develop a Chatbot for Pizza that greets the customer, provides the menu to choose from the given menu, orders your favorite food from the given digit typed by the customer and provides rating facility through the given form.
